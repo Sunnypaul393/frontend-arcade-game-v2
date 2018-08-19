@@ -47,7 +47,5 @@ Points are awarded for the following:
 The Game Rules and Hints are available in-game. The rules are displayed when the game is started
 for the first time .Just pause the game using the spacebar.
 
-Link:
-
 Enjoy the game and Good Luck!
 
