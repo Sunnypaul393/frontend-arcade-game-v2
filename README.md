@@ -49,3 +49,5 @@ for the first time .Just pause the game using the spacebar.
 
 Enjoy the game and Good Luck!
 
+Link to the Game: https://sunnypaul393.github.io/frontend-arcade-game-v2/
+
